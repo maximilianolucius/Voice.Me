@@ -1,0 +1,1 @@
+"""FreeVC speaker encoder module."""
